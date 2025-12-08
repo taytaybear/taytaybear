@@ -1,16 +1,5 @@
 # TayTayBear
-## Full Stack Developer | AI Integration Specialist | DevOps Engineer
-
-**Building scalable, intelligent solutions with modern technologies and best practices**
-
----
-
-### About Me
-- **Current Focus**: Developing enterprise-grade full-stack applications with AI integration and automation
-- **Learning**: Advanced cloud-native architectures, machine learning operations (MLOps), and emerging DevOps practices
-- **Expertise**: Full-stack development, AI/ML integration, cloud infrastructure, and modern software architecture
-- **Philosophy**: Clean, maintainable code that delivers measurable business value
-
+## Software Engineer (Full Stack, System, DevOps, AI)
 ---
 
 ## Technical Expertise
@@ -163,34 +152,6 @@
 <br clear="both">
 
 ###
-
----
-
-## Collaboration & Contact
-
-**Open to collaboration on innovative projects and technical discussions**
-
-- **Contributions**: Pull requests, issues, and feature requests are welcome
-- **Code Review**: Available for technical consultation and code reviews
-- **Networking**: Connect for professional opportunities and knowledge sharing
-
-### Support My Work
-
-If my projects have inspired or helped you, consider supporting my development work:
-
-**TON Wallet**: `UQDszMRnUY8BJQRrOlazhKQY6Z_x9735zh4ityk8kJsYwYsW`
-
-<div align="center">
-<img src="https://img.shields.io/badge/TON-Wallet-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="TON Wallet" />
-</div>
-
-## Support My Work
-
-**If my projects have helped you or inspired your development journey, consider supporting:**
-
-💎 **TON Wallet**: `UQBvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv`
-
-*Your support helps me continue building open-source projects and sharing knowledge with the developer community.*
 
 ---
 
